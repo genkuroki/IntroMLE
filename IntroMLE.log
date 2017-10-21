@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.8.31)  21 OCT 2017 19:46
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.8.31)  21 OCT 2017 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -447,4 +447,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  29i,12n,31p,237b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on IntroMLE.dvi (9 pages, 52188 bytes).
+Output written on IntroMLE.dvi (9 pages, 52080 bytes).
